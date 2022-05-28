@@ -7,4 +7,6 @@ Steps
 
 2 Algorithms with JavaScript
 
-3 Moving forward with tools and paradigms
+3 Moving forward with tools and paradigms}
+
+-------------------------------------------------------------
