@@ -2,6 +2,7 @@
 JavaScript studies based on Alura JavaScript backend training
 
 Steps
+
 1 JavaScript Fundamentals
 
 2 Algorithms with JavaScript
