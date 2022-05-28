@@ -1,6 +1,14 @@
-const cidade = "belo horizonte";
-const input = "Belo Horizonte";
+// boolean
+// true -> verdadeiro
+// false -> falso
 
-const inputMinusculo = input.toLowerCase();
+const primeiroNumero = 5;
+const segundoNumero = 5;
+let cadastroAtivado = true;
 
-console.log(cidade === inputMinusculo); //true
+//console.log(primeiroNumero === segundoNumero);
+
+const texto1 = "Alura";
+const texto2 = "alura";
+
+console.log(texto1 === texto2)
